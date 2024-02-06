@@ -664,7 +664,7 @@
 														<span class="old_price">$62.00</span>
 													</div>
 													<div class="add_to_cart">
-														<a class="btn btn-primary" href="#"data-tippy="Move To Bag"  data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
+                                        <a class="btn btn-primary" href="/add_to_cart" data-tippy="Move To Bag"  data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
 													</div>
 												</figcaption>
 											</figure>
@@ -707,7 +707,7 @@
 
 													</div>
 													<div class="add_to_cart">
-														<a class="btn btn-primary" href="#"data-tippy="Move To Bag"  data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
+                                        <a class="btn btn-primary" href="/add_to_cart" data-tippy="Move To Bag"  data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
 													</div>
 												</figcaption>
 											</figure>
@@ -750,7 +750,7 @@
 														<span class="old_price">$46.00</span>
 													</div>
 													<div class="add_to_cart">
-														<a class="btn btn-primary" href="#"data-tippy="Move To Bag"  data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
+                                        <a class="btn btn-primary" href="/add_to_cart" data-tippy="Move To Bag"  data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
 													</div>
 												</figcaption>
 											</figure>
@@ -789,7 +789,7 @@
 													   <span class="text-black">$42.00</span>
 													</div>
 													<div class="add_to_cart">
-														<a class="btn btn-primary" href="#"data-tippy="Move To Bag"  data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
+                                        <a class="btn btn-primary" href="/add_to_cart" data-tippy="Move To Bag"  data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
 													</div>
 												</figcaption>
 											</figure>
@@ -829,7 +829,7 @@
 														<span class="old_price">$362.00</span>
 													</div>
 													<div class="add_to_cart">
-														<a class="btn btn-primary" href="#"data-tippy="Move To Bag"  data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
+                                        <a class="btn btn-primary" href="/add_to_cart" data-tippy="Move To Bag"  data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
 													</div>
 												</figcaption>
 											</figure>
@@ -872,7 +872,7 @@
 														<span class="old_price">$38.00</span>
 													</div>
 													<div class="add_to_cart">
-														<a class="btn btn-primary" href="#"data-tippy="Move To Bag"  data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
+                                        <a class="btn btn-primary" href="/add_to_cart" data-tippy="Move To Bag"  data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
 													</div>
 												</figcaption>
 											</figure>
@@ -921,7 +921,7 @@
                                         <span class="old_price">$62.00</span>
                                     </div>
                                     <div class="add_to_cart">
-                                        <a class="btn btn-primary" href="#" data-tippy="Move To Bag"  data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
+                                        <a class="btn btn-primary" href="/add_to_cart" data-tippy="Move To Bag"  data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
                                     </div>
                                 </figcaption>
                             </figure>
@@ -965,7 +965,7 @@
 
                                     </div>
                                     <div class="add_to_cart">
-                                        <a class="btn btn-primary" href="#" data-tippy="Move To Bag"  data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
+                                        <a class="btn btn-primary" href="/add_to_cart" data-tippy="Move To Bag"  data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
                                     </div>
                                 </figcaption>
                             </figure>
@@ -1009,7 +1009,7 @@
                                         <span class="old_price">$46.00</span>
                                     </div>
                                     <div class="add_to_cart">
-                                        <a class="btn btn-primary" href="#" data-tippy="Move To Bag"  data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
+                                        <a class="btn btn-primary" href="/add_to_cart" data-tippy="Move To Bag"  data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
                                     </div>
                                 </figcaption>
                             </figure>
@@ -1049,7 +1049,7 @@
                                        <span class="text-black">$42.00</span>
                                     </div>
                                     <div class="add_to_cart">
-                                        <a class="btn btn-primary" href="#" data-tippy="Move To Bag"  data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
+                                        <a class="btn btn-primary" href="/add_to_cart" data-tippy="Move To Bag"  data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
                                     </div>
                                 </figcaption>
                             </figure>
@@ -1090,7 +1090,7 @@
                                         <span class="old_price">$362.00</span>
                                     </div>
                                     <div class="add_to_cart">
-                                        <a class="btn btn-primary" href="#" data-tippy="Move To Bag"  data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
+                                        <a class="btn btn-primary" href="/add_to_cart" data-tippy="Move To Bag"  data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
                                     </div>
                                 </figcaption>
                             </figure>
@@ -1134,7 +1134,7 @@
                                         <span class="old_price">$38.00</span>
                                     </div>
                                     <div class="add_to_cart">
-                                        <a class="btn btn-primary" href="#" data-tippy="Move To Bag"  data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
+                                        <a class="btn btn-primary" href="/add_to_cart" data-tippy="Move To Bag"  data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
                                     </div>
                                 </figcaption>
                             </figure>
