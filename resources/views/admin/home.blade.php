@@ -11,9 +11,9 @@
                 <!-- sa-app__footer -->
                 <div class="sa-app__footer d-block d-md-flex">
                     <!-- copyright -->
-                    Stroyka Admin — eCommerce Dashboard Template © 2021<div class="m-auto"></div>
+                    Modento Admin<div class="m-auto"></div>
                     <div>
-                        Powered by HTML — Design by <a href="https://themeforest.net/user/kos9/portfolio">Kos</a>
+                        <a href="https://themeforest.net/user/kos9/portfolio"></a>
                     </div>
                     <!-- copyright / end -->
                 </div>
